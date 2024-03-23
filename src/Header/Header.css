@@ -1,0 +1,117 @@
+
+.navbar {
+    background-color: #eb6440;
+    color: #fff;
+    margin-bottom: 100px;
+    padding: auto;
+    height: 80px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 100%;
+    padding: 0 20px;
+    
+}
+
+.logo {
+    text-decoration: none;
+    font-size: 1.5rem;
+    width: 73px;
+    height: 80px;
+    transform: rotate(180deg);
+}
+
+.nav-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+.nav-links li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px;
+}
+
+.nav-links li a:hover {
+    font-weight: 900;
+}
+.site-footer {
+    padding-top: 7000px;
+    padding-top: 150px;
+    text-align: center;
+  }
+  .footer-bottom{
+    height: 50px;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #eb6440;
+
+  
+  }
+  a{
+    font-weight: 800;
+  }
+
+.gato1{
+    padding-left: 350px;
+    width: 400px;
+    height: 640px;
+}
+.gato2{
+    width: 400px;
+    height: 640px;
+}
+.gato3{
+    width: 400px;
+    height: 640px;
+}
+.gato4{
+    padding-left: 350px;
+    width: 600px;
+    height: 640px;
+}
+.gato5{
+    width: 600px;
+    height: 640px;
+}
+.gato6{
+    padding-left: 350px;
+    width: 1200px;
+    height: 640px;
+}
+.gato7{
+    padding-left: 350px;
+    width: 400px;
+    height: 640px;
+}
+.gato8{
+    width: 400px;
+    height: 640px;
+}
+.gato9{
+    width: 400px;
+    height: 640px;
+}
+.gato10{
+    padding-left: 350px;
+    width: 600px;
+    height: 640px;
+}
+.gato11{
+    width: 600px;
+    height: 640px;
+}
+.gato12{
+    padding-left: 350px;
+    width: 1200px;
+    height: 640px;
+}
